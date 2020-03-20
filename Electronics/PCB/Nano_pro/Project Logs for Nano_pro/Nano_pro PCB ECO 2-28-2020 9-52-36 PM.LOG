@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=NetArduino nano_D4 Pin=J_servo1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J_servo1-2
+Removed Pin From Net: NetName=GND Pin=J_servo1-3
+Removed Pin From Net: NetName=NetArduino nano_D5 Pin=J_servo1-4
+Removed Pin From Net: NetName=NetC1_1 Pin=J_servo1-5
+Removed Pin From Net: NetName=GND Pin=J_servo1-6
+Removed Pin From Net: NetName=NetArduino nano_D2 Pin=J_servo2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=J_servo2-2
+Removed Pin From Net: NetName=GND Pin=J_servo2-3
+Removed Pin From Net: NetName=NetArduino nano_D3 Pin=J_servo2-4
+Removed Pin From Net: NetName=NetC1_1 Pin=J_servo2-5
+Removed Pin From Net: NetName=GND Pin=J_servo2-6
+Removed Member From Class: ClassName=Nano_pro Member=J_servo1
+Removed Member From Class: ClassName=Nano_pro Member=J_servo2
+Added Component: Designator=J1(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J2(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J3(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Component: Designator=J4(JP3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "J3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetArduino nano_D4 Pin=J1-1
+Added Pin To Net: NetName=NetC1_1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=NetC1_1 Pin=J2-2
+Added Pin To Net: NetName=NetArduino nano_D5 Pin=J2-3
+Added Pin To Net: NetName=NetArduino nano_D2 Pin=J3-1
+Added Pin To Net: NetName=NetC1_1 Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=NetC1_1 Pin=J4-2
+Added Pin To Net: NetName=NetArduino nano_D3 Pin=J4-3
+Added Member To Class: ClassName=Nano_pro Member=Component J1 Jumper 3
+Added Member To Class: ClassName=Nano_pro Member=Component J2 Jumper 3
+Added Member To Class: ClassName=Nano_pro Member=Component J3 Jumper 3
+Added Member To Class: ClassName=Nano_pro Member=Component J4 Jumper 3

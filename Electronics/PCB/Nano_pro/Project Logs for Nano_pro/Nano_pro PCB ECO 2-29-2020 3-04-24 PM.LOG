@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=J1 Old Footprint=JP3 New Footprint=CON3
+Change Component Footprint: Designator=J2 Old Footprint=JP3 New Footprint=CON3
+Change Component Footprint: Designator=J3 Old Footprint=JP3 New Footprint=CON3
+Change Component Footprint: Designator=J4 Old Footprint=JP3 New Footprint=CON3
+Added Member To Class: ClassName=Nano_pro Member=Component C2 0.1uF
+Added Member To Class: ClassName=Nano_pro Member=Component PW JP2
+Added Room: Name=Nano_pro

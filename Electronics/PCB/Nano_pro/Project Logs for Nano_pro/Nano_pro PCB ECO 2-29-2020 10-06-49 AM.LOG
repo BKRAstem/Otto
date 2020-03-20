@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=Arduino nano-VIN
+Removed Pin From Net: NetName=GND Pin=PW-2
+Added Pin To Net: NetName=NetArduino nano_VIN Pin=Arduino nano-VIN
+Added Pin To Net: NetName=NetArduino nano_VIN Pin=PW-2
+Added Net: Name=NetArduino nano_VIN

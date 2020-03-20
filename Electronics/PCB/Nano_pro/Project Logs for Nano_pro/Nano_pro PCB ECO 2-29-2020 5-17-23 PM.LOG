@@ -1,0 +1,10 @@
+Added Component: Designator=PW2(CON2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "Connector 2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PW2-1
+Added Pin To Net: NetName=NetIC7805_1 Pin=IC7805-1
+Added Pin To Net: NetName=NetIC7805_1 Pin=PW2-2
+Added Net: Name=NetIC7805_1
+Added Member To Class: ClassName=Nano_pro Member=Component J2 Jumper 3
+Added Member To Class: ClassName=Nano_pro Member=Component J3 Jumper 3
+Added Member To Class: ClassName=Nano_pro Member=Component PW2 JP2

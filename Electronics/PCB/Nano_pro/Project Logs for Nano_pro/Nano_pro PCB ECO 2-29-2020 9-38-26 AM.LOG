@@ -1,0 +1,9 @@
+Added Component: Designator=Buzzer(*PT-1340_PT-1340P-P10-PQ(Primary))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PT-1340P-P10-PQ/Mallory%20Sonalert%20Products%20Inc./view-part/463109/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Buzzer-P$1
+Added Pin To Net: NetName=NetArduino nano_D13 Pin=Arduino nano-D13
+Added Pin To Net: NetName=NetArduino nano_D13 Pin=Buzzer-P$2
+Added Net: Name=NetArduino nano_D13
+Added Member To Class: ClassName=Nano_pro Member=Component Buzzer PT-1340P-P10-PQ
